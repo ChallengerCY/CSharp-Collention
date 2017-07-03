@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\bin\Debug\CSharpCollectionType.exe.config
+C:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\obj\Debug\CSharpCollectionType.csprojResolveAssemblyReference.cache
+C:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\bin\Debug\CSharpCollectionType.exe
+C:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\bin\Debug\CSharpCollectionType.pdb
+C:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\obj\Debug\CSharpCollectionType.exe
+C:\visual studio 2013\Projects\CSharpCollectionType\CSharpCollectionType\obj\Debug\CSharpCollectionType.pdb
